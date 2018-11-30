@@ -1,0 +1,35 @@
+body {
+  background-color: #e4f9f5;
+}
+
+hr {
+  border-style: none;
+  border-top: 4px dotted #30e3ca;
+  border-width: 7px;
+  width: 10%;
+}
+
+h1 {
+  color: #11999e
+}
+
+h2 {
+  color: #11999e
+}
+
+h3 {
+  color: #11999e
+}
+
+h4 {
+  color: #11999e
+}
+
+#circular {
+ border-radius:100%;
+}
+
+.border:hover {
+  border-style: outset;
+
+}
